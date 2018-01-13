@@ -4593,6 +4593,16 @@ input[type="submit"].btn.btn-mini {
           box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
 }
 
+.navbar-inverse .nav .active > a,
+.navbar-inverse .nav .active > a:hover,
+.navbar-inverse .nav .active > a:focus,
+.navbar-inverse .nav .current_page_item a,
+.navbar-inverse .nav .current_page_item a:hover,
+.navbar-inverse .nav .current_page_item a:focus,
+.navbar-inverse .nav .current_page_parent a,
+.navbar-inverse .nav .current_page_parent a:hover,
+.navbar-inverse .nav .current_page_parent a:focus {
+
 .navbar .nav {
   position: relative;
   left: 0;
